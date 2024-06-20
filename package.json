@@ -1,0 +1,9 @@
+{
+  "name": "small-wallet-example-with-solidity",
+  "version": "1.0.0",
+  "description": "We are going to create a smart contract to simulate a simple wallet where you can deposit, withdraw and transfer to a given account.",
+  "main": "WalletContract.sol",
+  "keywords": ["Blockchain", "Ethereum", "Smart Contracts", "Solidity", "Wallet", "Remix", "Deposit", "Withdraw", "Transfer"],
+  "author": "Agustin Cassani",
+  "license": "MIT"
+}
